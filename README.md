@@ -99,8 +99,8 @@ The transfer learning model significantly outperformed CNN training from scratch
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/varadshajith/cats-dogs-transfer-learning.git
-cd cats-dogs-transfer-learning
+git clone https://github.com/sahilranade45/dogs-cats-transfer-learning.git
+cd dogs-cats-transfer-learning
 ```
 
 ### Step 2: Download Dataset
